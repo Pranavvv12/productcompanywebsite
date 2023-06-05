@@ -636,7 +636,7 @@ Tertiary color: Grey
 </html>
 ```
 ### layout.css:
-```html
+```css
 
 * {
   box-sizing: border-box;
